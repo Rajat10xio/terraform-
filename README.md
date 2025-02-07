@@ -23,3 +23,12 @@ cd terraform
 │── outputs.tf
 │── README.md
 
+📌 Requirements
+AWS CLI configured
+Terraform installed
+IAM permissions to create EC2 instances
+📌 Terraform Files Structure
+main.tf → Defines the AWS instance
+variables.tf → Defines variable placeholders
+terraform.tfvars → Stores variable values
+outputs.tf → Displays the public IP
