@@ -7,7 +7,7 @@ This repository contains Terraform scripts to create an AWS EC2 instance. Users 
 
 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/Rajat10xio/terraform-.git
+git clone [https://github.com/Rajat10xio/terraform-.git](https://github.com/Rajat10xio/terraform-.git)
 cd terraform
 
 /devops-terraform-project
